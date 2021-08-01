@@ -14,5 +14,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
+---
+
 ### GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=clarkevansteenderen&theme=dark" />
