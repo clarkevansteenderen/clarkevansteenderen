@@ -1,4 +1,4 @@
-### Hi, I'm Clarke van Steenderen 👋
+### Hello, I'm Clarke van Steenderen
 
 - 📚 I'm a PhD student at Rhodes University in South Africa, in the [Department of Zoology and Entomology](https://www.ru.ac.za/zoologyandentomology/)
 - 🐛 I'm particularly interested in genetics and evolution, and creating GUIs and scripts for data analyses
