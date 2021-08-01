@@ -6,6 +6,10 @@
 - 🖼️ I’m currently learning about image recognition tools using Python
 - 📫 How to reach me: vsteenderen@gmail.com OR g14v1511@campus.ru.ac.za
 
+---
+### **Please click [here](https://github.com/clarkevansteenderen/Clarke-van-Steenderen-CV/blob/main/Clarke_van_Steenderen_CV.pdf) for a PDF copy of my CV.**
+---
+
 ### Programming Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
